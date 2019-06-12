@@ -58,3 +58,7 @@ The only prerequisite for running SonarQube is to have Java (Oracle JRE 8 or Ope
 1. Get the host url which you have set in the configuration and try accessing it.
 2. Default username and password is: admin/admin
     `For e.g. http://localhost:9000/dashboard?id=<project_key>`
+    
+    
+## URl to see sonar lints checks
+https://rules.sonarsource.com/html/RSPEC-1097
